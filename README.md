@@ -1,2 +1,2 @@
-# MIT8107-SQL-Lab2-TransactionsTriggersAndCheckConstraints
-Instructional materials (course files) for the MIT8107 course (Advanced Database Systems) using SQL. Topic: triggers and check constraints.
+# Lab Manual
+Please refer to the lab manual available here for the required lab work submission: [https://elearning.strathmore.edu/course/view.php?id=3277](https://elearning.strathmore.edu/course/view.php?id=3277)
